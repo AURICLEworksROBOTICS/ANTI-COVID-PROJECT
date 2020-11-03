@@ -11,4 +11,6 @@ made a liquid using antiseptics to kill covid
 
 working on other projects
 
+making covid preventor robot
+
 
