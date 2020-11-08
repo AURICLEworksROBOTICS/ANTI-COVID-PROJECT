@@ -15,4 +15,7 @@ making covid preventor robot
 
 https://github.com/users/AURICLEworksROBOTICS/projects/3
 
+we drafted nocovo project for a while until juju develops & 
+humanoid is being prepared plans may also change
+
 
