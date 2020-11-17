@@ -11,7 +11,7 @@ made a liquid using antiseptics to kill covid !
 
 working on other projects !
 
-making covid preventor robot
+making covid preventor robot !
 
 https://github.com/users/AURICLEworksROBOTICS/projects/3
 
