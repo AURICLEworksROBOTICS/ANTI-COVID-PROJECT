@@ -9,7 +9,7 @@ made juju which can help to spread awareness & share masks & sanitizers
 
 made a liquid using antiseptics to kill covid !
 
-working on other projects
+working on other projects !
 
 making covid preventor robot
 
