@@ -19,7 +19,7 @@ https://github.com/users/AURICLEworksROBOTICS/projects/3
 we drafted nocovo project for a while until juju develops & 
 (plans may also change)
 
--------PROJECTS DRAFTED ------------------------
+--------------PROJECTS DRAFTED -----------------------------
 
 
 
